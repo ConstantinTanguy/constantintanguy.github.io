@@ -170,11 +170,26 @@
     justify-content: center;
     align-items: center;
     color: white;
-}
+}ssss
 
 .btn{
 
     color: rgb(41, 40, 40);
+}
+
+.twitter{
+
+    height: 25vh;
+    background-color: #4BCAFF;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bolder{
+    font-weight: bolder;
 }
 
 
