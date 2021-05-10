@@ -131,8 +131,6 @@
     
 }
 
-
-
 .photo2{
     background-image: url(images/portfolio/2.png);
 }
@@ -182,7 +180,7 @@
     height: 25vh;
     background-color: #4BCAFF;
     color: white;
-    font-size: 25px;
+    font-size: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -190,6 +188,19 @@
 
 .bolder{
     font-weight: bolder;
+}
+
+.photographe{
+
+    background-image: url(images/whois.jpg);
+    height: 50vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
